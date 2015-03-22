@@ -33,3 +33,10 @@ https://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook
 開放式課程
 Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译
 https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift
+
+
+Coding Style：
+github/objective-c-style-guide
+raywenderlich/objective-c-style-guide
+NYTimes/objective-c-style-guide
+spotify/ios-style
