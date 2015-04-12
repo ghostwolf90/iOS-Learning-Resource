@@ -1,5 +1,6 @@
 # iOS-Learning-Resource
 
+[iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835)
 [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) <br/>
 [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 
