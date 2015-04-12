@@ -1,8 +1,9 @@
 # iOS-Learning-Resource
 
-[iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835)
-[Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) <br/>
-[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
+#### 其他人收集的資源清單
+1. [iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835) <br/>
+2. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) <br/>
+3. [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 
 #### 範例程式
 1. [shu223/iOS8-Sampler](https://github.com/shu223/iOS8-Sampler)
