@@ -17,6 +17,7 @@
 2. [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly)
 3. [Lax/iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos)
 4. [iOS-8-Swift-Programming-Cookbook](https://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook)
+5. [《The Swift Programming Language》官方文件  簡體中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
 
 #### 開放式課程
 1. [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
