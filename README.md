@@ -7,6 +7,7 @@
 1. [iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835)
 2. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
 3. [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
+4. [awesome-ios](https://github.com/vsouza/awesome-ios#plugins)
 
 #### Swift
 1. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
@@ -14,6 +15,8 @@
 3. [Lax/iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) : 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。
 4. [iOS-8-Swift-Programming-Cookbook](https://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook)
 5. [《The Swift Programming Language》官方文件  簡體中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
+6. [LeetCode-Solutions-in-Swift](https://github.com/diwu/LeetCode-Solutions-in-Swift) : Prepare yourself for an iOS job interview by studying high quality LeetCode problem solutions in Swift.
+7. [SwiftDoc.org](http://swiftdoc.org) : Documentation and resources for the Swift community.
 
 #### 範例程式
 1. [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler) : Code examples for the new functions of iOS 7.
@@ -25,6 +28,7 @@
 1. [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS) : Hacker News client for iPad and iPhone.
 2. [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) : Simple iOS client for Designer News
 3. [v2ex](https://github.com/singro/v2ex) : An iOS client for v2ex.com
+4. [openhab](https://github.com/openhab/openhab) : Source code of the open Home Automation Bus (openHAB)
 
 #### 開放式課程
 1. [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
