@@ -16,9 +16,10 @@
 5. [《The Swift Programming Language》官方文件  簡體中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
 
 #### 範例程式
-1. [shu223/iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) : Code examples for the new functions of iOS 8.
-2. [ios-7-programming-cookbook-source-codes](https://github.com/vandadnp/ios-7-programming-cookbook-source-codes)
-3. [apple-ios-samples](https://github.com/robovm/apple-ios-samples) : This repository mirrors Apple's iOS samples.
+1. [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler) : Code examples for the new functions of iOS 7.
+2. [shu223/iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) : Code examples for the new functions of iOS 8.
+3. [ios-7-programming-cookbook-source-codes](https://github.com/vandadnp/ios-7-programming-cookbook-source-codes)
+4. [apple-ios-samples](https://github.com/robovm/apple-ios-samples) : This repository mirrors Apple's iOS samples.
 
 #### iOS Client App
 1. [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS) : Hacker News client for iPad and iPhone.
