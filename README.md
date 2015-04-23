@@ -11,6 +11,7 @@
 
 #### Swift
 1. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+2. [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift)
 2. [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly)
 3. [Lax/iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) : 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。
 4. [iOS-8-Swift-Programming-Cookbook](https://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook)
