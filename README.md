@@ -24,11 +24,12 @@
 3. [ios-7-programming-cookbook-source-codes](https://github.com/vandadnp/ios-7-programming-cookbook-source-codes)
 4. [apple-ios-samples](https://github.com/robovm/apple-ios-samples) : This repository mirrors Apple's iOS samples.
 
-#### iOS Client App
+#### iOS App
 1. [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS) : Hacker News client for iPad and iPhone.
 2. [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) : Simple iOS client for Designer News
 3. [v2ex](https://github.com/singro/v2ex) : An iOS client for v2ex.com
 4. [openhab](https://github.com/openhab/openhab) : Source code of the open Home Automation Bus (openHAB)
+5. [FancyPixel/gulps](https://github.com/FancyPixel/gulps) : Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
 
 #### 開放式課程
 1. [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
