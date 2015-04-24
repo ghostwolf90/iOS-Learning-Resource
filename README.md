@@ -1,4 +1,4 @@
-# iOS-Learning-Resource <br/>
+# iOS-Learning-Resource
 
 #### 給新手看
 1. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) : 这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
@@ -28,11 +28,17 @@
 
 #### iOS App
 1. [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) : List of open-source iOS apps.
-2. [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS) : Hacker News client for iPad and iPhone.
-2. [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) : Simple iOS client for Designer News
+2. [Hacker News](https://github.com/mmackh/Hacker-News-for-iOS) : Hacker News client for iPad and iPhone.
+2. [Designer News](https://github.com/MengTo/DesignerNewsApp) : Simple iOS client for Designer News
 3. [v2ex](https://github.com/singro/v2ex) : An iOS client for v2ex.com
-4. [openhab](https://github.com/openhab/openhab) : Source code of the open Home Automation Bus (openHAB)
-5. [FancyPixel/gulps](https://github.com/FancyPixel/gulps) : Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
+4. [openHAB](https://github.com/openhab/openhab) : Source code of the open Home Automation Bus (openHAB)
+5. [Gulps](https://github.com/FancyPixel/gulps) : Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
+6. [Meizi](https://github.com/Sunnyyoung/Meizi) : 豆瓣妹子图iOS客户端
+7. [OpenVBX](https://github.com/twilio/OpenVBX-iPhone) : OpenVBX for iPhone
+8. [itjh](https://github.com/itjhDev/itjh) : IT江湖iOS客户端
+9. [Doppio](https://github.com/chroman/Doppio) : An open source iOS app to find the nearest Starbucks store using NSURLSession, AFNetworking 2.0, Mantle and Starbucks private API. 
+10. [2048](https://github.com/danqing/2048) : The iOS version of 2048, made using SpriteKit.
+11. [iOSSF](https://github.com/gaosboy/iOSSF) : SegmentFault 官方App
 
 #### 開放式課程
 1. [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
