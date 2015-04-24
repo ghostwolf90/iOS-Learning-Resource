@@ -24,6 +24,7 @@
 2. [shu223/iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) : Code examples for the new functions of iOS 8.
 3. [ios-7-programming-cookbook-source-codes](https://github.com/vandadnp/ios-7-programming-cookbook-source-codes)
 4. [apple-ios-samples](https://github.com/robovm/apple-ios-samples) : This repository mirrors Apple's iOS samples.
+5. [matchismo-2013-14](https://github.com/m2mtech/matchismo-2013-14) : Matchismo Playing Card Game of cs193p lecture (Fall 2013-14)
 
 #### iOS App
 1. [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) : List of open-source iOS apps.
@@ -39,3 +40,8 @@
 #### Coding Style
 1. [github/objective-c-style-guide](raywenderlich/objective-c-style-guide)
 2. [NYTimes/objective-c-style-guide](spotify/ios-style)
+
+#### iOS Interview Question
+1. [iOS-Developer-and-Designer-Interview-Questions](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) : A small guide to help those looking to hire a developer or designer for iOS work. It can also be a great self-test if you're looking to keep current or practice for your own interview.
+2. [anbarasu0504/iOS-Interview-Questions](https://github.com/anbarasu0504/iOS-Interview-Questions) : These are not general iOS Interview Questions but a source for quick understanding on iOS topics.
+3. [eskerber/iOS-Interview-Questions](https://github.com/eskerber/iOS-Interview-Questions) : My collection of iOS specific, as well as general programming questions.
