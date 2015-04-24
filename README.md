@@ -2,16 +2,17 @@
 
 #### 給新手看
 1. [Standford 2015 iOS讀書會 week1](http://www.slideshare.net/deeplovepan/standford-2015-ios-week1-1logistics-ios-8-overview-2-more-xcode-and-swift-mvc) : 1.Logistics, iOS 8 Overview 2. More Xcode and Swift, MVC
+2. [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index) : This tutorial is the place to learn the Objective-C programming language. It’s designed to serve as both a concise quick-reference and a comprehensive introduction for newcomers to the language. A familiarity with basic programming concepts like variables, functions, and objects is recommended, but not strictly required.
 
 #### 其他人收集的資源清單
 1. [iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835)
-2. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
+2. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) : 这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
 3. [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
-4. [awesome-ios](https://github.com/vsouza/awesome-ios#plugins)
+4. [awesome-ios](https://github.com/vsouza/awesome-ios) : A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more. The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. 
 
 #### Swift
-1. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
-2. [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly)
+1. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) : A collaborative list of awesome swift resources.
+2. [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly) : Weekly Swift Language Gems, Tips and Tricks
 3. [Lax/iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) : 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。
 4. [iOS-8-Swift-Programming-Cookbook](https://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook)
 5. [《The Swift Programming Language》官方文件  簡體中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
