@@ -26,7 +26,8 @@
 4. [apple-ios-samples](https://github.com/robovm/apple-ios-samples) : This repository mirrors Apple's iOS samples.
 
 #### iOS App
-1. [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS) : Hacker News client for iPad and iPhone.
+1. [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) : List of open-source iOS apps.
+2. [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS) : Hacker News client for iPad and iPhone.
 2. [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) : Simple iOS client for Designer News
 3. [v2ex](https://github.com/singro/v2ex) : An iOS client for v2ex.com
 4. [openhab](https://github.com/openhab/openhab) : Source code of the open Home Automation Bus (openHAB)
