@@ -1,14 +1,14 @@
 # iOS-Learning-Resource <br/>
 
 #### 給新手看
-1. [Standford 2015 iOS讀書會 week1](http://www.slideshare.net/deeplovepan/standford-2015-ios-week1-1logistics-ios-8-overview-2-more-xcode-and-swift-mvc) : 1.Logistics, iOS 8 Overview 2. More Xcode and Swift, MVC
-2. [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index) : This tutorial is the place to learn the Objective-C programming language. It’s designed to serve as both a concise quick-reference and a comprehensive introduction for newcomers to the language. A familiarity with basic programming concepts like variables, functions, and objects is recommended, but not strictly required.
+1. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) : 这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
+2. [Standford 2015 iOS讀書會 week1](http://www.slideshare.net/deeplovepan/standford-2015-ios-week1-1logistics-ios-8-overview-2-more-xcode-and-swift-mvc) : 1.Logistics, iOS 8 Overview 2. More Xcode and Swift, MVC
+3. [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index) : This tutorial is the place to learn the Objective-C programming language. It’s designed to serve as both a concise quick-reference and a comprehensive introduction for newcomers to the language. A familiarity with basic programming concepts like variables, functions, and objects is recommended, but not strictly required.
 
 #### 其他人收集的資源清單
 1. [iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835)
-2. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) : 这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
-3. [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
-4. [awesome-ios](https://github.com/vsouza/awesome-ios) : A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more. The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. 
+2. [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
+3. [awesome-ios](https://github.com/vsouza/awesome-ios) : A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more. The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. 
 
 #### Swift
 1. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) : A collaborative list of awesome swift resources.
