@@ -49,5 +49,8 @@
 
 #### iOS Interview Question
 1. [iOS-Developer-and-Designer-Interview-Questions](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) : A small guide to help those looking to hire a developer or designer for iOS work. It can also be a great self-test if you're looking to keep current or practice for your own interview.
-2. [anbarasu0504/iOS-Interview-Questions](https://github.com/anbarasu0504/iOS-Interview-Questions) : These are not general iOS Interview Questions but a source for quick understanding on iOS topics.
-3. [eskerber/iOS-Interview-Questions](https://github.com/eskerber/iOS-Interview-Questions) : My collection of iOS specific, as well as general programming questions.
+2. [面試 iOS 工程師的一些題目](http://nelson.logdown.com/posts/2015/04/27/questions-i-ask-when-interview-ios-engineer)
+
+#### 其它
+1. [anbarasu0504/iOS-Interview-Questions](https://github.com/anbarasu0504/iOS-Interview-Questions) : These are not general iOS Interview Questions but a source for quick understanding on iOS topics.
+2. [eskerber/iOS-Interview-Questions](https://github.com/eskerber/iOS-Interview-Questions) : My collection of iOS specific, as well as general programming questions.
