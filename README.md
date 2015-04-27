@@ -9,36 +9,36 @@
 1. [iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835)
 2. [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 3. [awesome-ios](https://github.com/vsouza/awesome-ios) : A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more. The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. 
+4. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) : A collaborative list of awesome swift resources.
+5. [Lax/iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) : 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。
 
 #### Swift
-1. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) : A collaborative list of awesome swift resources.
+1. [awesome-swift-and-tutorial-resources](awesome-swift-and-tutorial-resources) : A curated list of awesome Swift resources and tutorial websites. 
 2. [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly) : Weekly Swift Language Gems, Tips and Tricks
-3. [Lax/iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) : 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。
-4. [iOS-8-Swift-Programming-Cookbook](https://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook)
-5. [《The Swift Programming Language》官方文件  簡體中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
-6. [LeetCode-Solutions-in-Swift](https://github.com/diwu/LeetCode-Solutions-in-Swift) : Prepare yourself for an iOS job interview by studying high quality LeetCode problem solutions in Swift.
-7. [SwiftDoc.org](http://swiftdoc.org) : Documentation and resources for the Swift community.
+3. [《The Swift Programming Language》官方文件  簡體中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
+4. [SwiftDoc.org](http://swiftdoc.org) : Documentation and resources for the Swift community.
 
 #### 範例程式
 1. [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler) : Code examples for the new functions of iOS 7.
 2. [shu223/iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) : Code examples for the new functions of iOS 8.
 3. [ios-7-programming-cookbook-source-codes](https://github.com/vandadnp/ios-7-programming-cookbook-source-codes)
-4. [apple-ios-samples](https://github.com/robovm/apple-ios-samples) : This repository mirrors Apple's iOS samples.
-5. [matchismo-2013-14](https://github.com/m2mtech/matchismo-2013-14) : Matchismo Playing Card Game of cs193p lecture (Fall 2013-14)
+4. [iOS-8-Swift-Programming-Cookbook](https://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook)
+5. [apple-ios-samples](https://github.com/robovm/apple-ios-samples) : This repository mirrors Apple's iOS samples.
+6. [matchismo-2013-14](https://github.com/m2mtech/matchismo-2013-14) : Matchismo Playing Card Game of cs193p lecture (Fall 2013-14)
 
 #### iOS App
 1. [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) : List of open-source iOS apps.
 2. [Hacker News](https://github.com/mmackh/Hacker-News-for-iOS) : Hacker News client for iPad and iPhone.
-2. [Designer News](https://github.com/MengTo/DesignerNewsApp) : Simple iOS client for Designer News
-3. [v2ex](https://github.com/singro/v2ex) : An iOS client for v2ex.com
-4. [openHAB](https://github.com/openhab/openhab) : Source code of the open Home Automation Bus (openHAB)
-5. [Gulps](https://github.com/FancyPixel/gulps) : Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
-6. [Meizi](https://github.com/Sunnyyoung/Meizi) : 豆瓣妹子图iOS客户端
-7. [OpenVBX](https://github.com/twilio/OpenVBX-iPhone) : OpenVBX for iPhone
-8. [itjh](https://github.com/itjhDev/itjh) : IT江湖iOS客户端
-9. [Doppio](https://github.com/chroman/Doppio) : An open source iOS app to find the nearest Starbucks store using NSURLSession, AFNetworking 2.0, Mantle and Starbucks private API. 
-10. [2048](https://github.com/danqing/2048) : The iOS version of 2048, made using SpriteKit.
-11. [iOSSF](https://github.com/gaosboy/iOSSF) : SegmentFault 官方App
+3. [Designer News](https://github.com/MengTo/DesignerNewsApp) : Simple iOS client for Designer News
+4. [v2ex](https://github.com/singro/v2ex) : An iOS client for v2ex.com
+5. [openHAB](https://github.com/openhab/openhab) : Source code of the open Home Automation Bus (openHAB)
+6. [Gulps](https://github.com/FancyPixel/gulps) : Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
+7. [Meizi](https://github.com/Sunnyyoung/Meizi) : 豆瓣妹子图iOS客户端
+8. [OpenVBX](https://github.com/twilio/OpenVBX-iPhone) : OpenVBX for iPhone
+9. [itjh](https://github.com/itjhDev/itjh) : IT江湖iOS客户端
+10. [Doppio](https://github.com/chroman/Doppio) : An open source iOS app to find the nearest Starbucks store using NSURLSession, AFNetworking 2.0, Mantle and Starbucks private API. 
+11. [2048](https://github.com/danqing/2048) : The iOS version of 2048, made using SpriteKit.
+12. [iOSSF](https://github.com/gaosboy/iOSSF) : SegmentFault 官方App
 
 #### 開放式課程
 1. [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
