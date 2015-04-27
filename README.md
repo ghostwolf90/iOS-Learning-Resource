@@ -11,12 +11,12 @@
 3. [awesome-ios](https://github.com/vsouza/awesome-ios) : A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more. The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. 
 4. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) : A collaborative list of awesome swift resources.
 5. [Lax/iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) : 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。
+6. [awesome-swift-and-tutorial-resources](https://github.com/MaxChen/awesome-swift-and-tutorial-resources) : A curated list of awesome Swift resources and tutorial websites. 
 
 #### Swift
-1. [awesome-swift-and-tutorial-resources](awesome-swift-and-tutorial-resources) : A curated list of awesome Swift resources and tutorial websites. 
-2. [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly) : Weekly Swift Language Gems, Tips and Tricks
-3. [《The Swift Programming Language》官方文件  簡體中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
-4. [SwiftDoc.org](http://swiftdoc.org) : Documentation and resources for the Swift community.
+1. [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly) : Weekly Swift Language Gems, Tips and Tricks
+2. [《The Swift Programming Language》官方文件  簡體中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
+3. [SwiftDoc.org](http://swiftdoc.org) : Documentation and resources for the Swift community.
 
 #### 範例程式
 1. [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler) : Code examples for the new functions of iOS 7.
