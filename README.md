@@ -2,8 +2,10 @@
 
 #### 給新手看
 1. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) : 这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
-2. [Standford 2015 iOS讀書會 week1](http://www.slideshare.net/deeplovepan/standford-2015-ios-week1-1logistics-ios-8-overview-2-more-xcode-and-swift-mvc) : 1.Logistics, iOS 8 Overview 2. More Xcode and Swift, MVC
-3. [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index) : This tutorial is the place to learn the Objective-C programming language. It’s designed to serve as both a concise quick-reference and a comprehensive introduction for newcomers to the language. A familiarity with basic programming concepts like variables, functions, and objects is recommended, but not strictly required.
+2. [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index) : This tutorial is the place to learn the Objective-C programming language. It’s designed to serve as both a concise quick-reference and a comprehensive introduction for newcomers to the language. A familiarity with basic programming concepts like variables, functions, and objects is recommended, but not strictly required.
+3. [Standford 2015 iOS讀書會 week1](http://www.slideshare.net/deeplovepan/standford-2015-ios-week1-1logistics-ios-8-overview-2-more-xcode-and-swift-mvc) : 1.Logistics, iOS 8 Overview 2. More Xcode and Swift, MVC
+4. [Standford 2015 iOS讀書會 week2](http://www.slideshare.net/deeplovepan/standford-2015-ios-week2-1-applying-mvc-2-more-swift-and-foundation-frameworks) : 1. Applying MVC 2. More Swift and Foundation Frameworks
+5. [Standford 2015 iOS讀書會 week3](http://www.slideshare.net/deeplovepan/standford-2015-week3-objectivec-compatibility-property-list-views) : Objective-C Compatibility, Property List, Views
 
 #### 其他人收集的資源清單
 1. [iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835)
