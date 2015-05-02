@@ -31,6 +31,7 @@
 #### iOS App
 1. [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) : List of open-source iOS apps.
 2. [Hacker News](https://github.com/mmackh/Hacker-News-for-iOS) : Hacker News client for iPad and iPhone.
+3. [newsyc](https://github.com/Xuzz/newsyc) : An iPhone Hacker News client.
 3. [Designer News](https://github.com/MengTo/DesignerNewsApp) : Simple iOS client for Designer News
 4. [v2ex](https://github.com/singro/v2ex) : An iOS client for v2ex.com
 5. [openHAB](https://github.com/openhab/openhab) : Source code of the open Home Automation Bus (openHAB)
