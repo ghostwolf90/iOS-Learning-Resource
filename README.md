@@ -55,5 +55,6 @@
 2. [面試 iOS 工程師的一些題目](http://nelson.logdown.com/posts/2015/04/27/questions-i-ask-when-interview-ios-engineer)
 
 #### 其它
-1. [anbarasu0504/iOS-Interview-Questions](https://github.com/anbarasu0504/iOS-Interview-Questions) : These are not general iOS Interview Questions but a source for quick understanding on iOS topics.
-2. [eskerber/iOS-Interview-Questions](https://github.com/eskerber/iOS-Interview-Questions) : My collection of iOS specific, as well as general programming questions.
+* [anbarasu0504/iOS-Interview-Questions](https://github.com/anbarasu0504/iOS-Interview-Questions) : These are not general iOS Interview Questions but a source for quick understanding on iOS topics.
+* [eskerber/iOS-Interview-Questions](https://github.com/eskerber/iOS-Interview-Questions) : My collection of iOS specific, as well as general programming questions.
+* [app-launch-guide](https://github.com/adamwulf/app-launch-guide) : This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
