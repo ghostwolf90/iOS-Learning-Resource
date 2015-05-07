@@ -42,6 +42,7 @@
 10. [Doppio](https://github.com/chroman/Doppio) : An open source iOS app to find the nearest Starbucks store using NSURLSession, AFNetworking 2.0, Mantle and Starbucks private API. 
 11. [2048](https://github.com/danqing/2048) : The iOS version of 2048, made using SpriteKit.
 12. [iOSSF](https://github.com/gaosboy/iOSSF) : SegmentFault 官方App
+13. [VPNOn](https://github.com/lexrus/VPNOn) : This App installs a Today Widget into Notification Center which make it possible to turn on a VPN in about 3 seconds(depends on the connection speed). Furthermore, by turning on On Demand feature, the VPN could be automatically connected when you visit any domain specified in this App. 
 
 #### 開放式課程
 1. [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
