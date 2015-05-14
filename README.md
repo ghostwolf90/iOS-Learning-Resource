@@ -43,6 +43,16 @@
 11. [2048](https://github.com/danqing/2048) : The iOS version of 2048, made using SpriteKit.
 12. [iOSSF](https://github.com/gaosboy/iOSSF) : SegmentFault 官方App
 13. [VPNOn](https://github.com/lexrus/VPNOn) : This App installs a Today Widget into Notification Center which make it possible to turn on a VPN in about 3 seconds(depends on the connection speed). Furthermore, by turning on On Demand feature, the VPN could be automatically connected when you visit any domain specified in this App. 
+14. [WWDC-2015](https://github.com/adityachugh/WWDC-2015) : Aditya Chugh's WWDC 2015 Scholarship Winning App
+15. [2014](https://github.com/wwdc/2014) : A curated list of all the WWDC Submissions in one place
+16. [2015](https://github.com/wwdc/2015) : Student Submissions for the WWDC 2015 Scholarship.
+17. [TWRadiationApp](https://github.com/g0v/TWRadiationApp) : 台灣輻射地圖APP for iOS
+18. [Bible-Assistant-master](https://github.com/sany620/Bible-Assistant-master) : 圣经小助手，唐巧分享的
+19. [apps-ios-wikipedia](https://github.com/wikimedia/apps-ios-wikipedia) : The official Wikipedia iOS client.
+20. [bemyeyes-ios](https://github.com/bemyeyes/bemyeyes-ios) : The Be My Eyes iOS app
+
+#### Apple Watch App
+* [CoolSpot](https://github.com/neonichu/CoolSpot) : The missing Spotify ᴡᴀᴛᴄʜ app.
 
 #### 開放式課程
 1. [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
