@@ -19,6 +19,7 @@
 1. [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly) : Weekly Swift Language Gems, Tips and Tricks
 2. [《The Swift Programming Language》官方文件  簡體中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
 3. [SwiftDoc.org](http://swiftdoc.org) : Documentation and resources for the Swift community.
+4. [SwiftGuide](https://github.com/ipader/SwiftGuide) : 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。
 
 #### 範例程式
 1. [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler) : Code examples for the new functions of iOS 7.
@@ -51,6 +52,7 @@
 19. [apps-ios-wikipedia](https://github.com/wikimedia/apps-ios-wikipedia) : The official Wikipedia iOS client.
 20. [bemyeyes-ios](https://github.com/bemyeyes/bemyeyes-ios) : The Be My Eyes iOS app
 21. [ThatInbox](https://github.com/Ink/ThatInbox) : ThatInbox is a free and open-source email client
+22. [leanchat-ios](https://github.com/leancloud/leanchat-ios) : 用 LeanCloud 实时通信组件做的社交应用 LeanChat
 
 #### Apple Watch App
 * [CoolSpot](https://github.com/neonichu/CoolSpot) : The missing Spotify ᴡᴀᴛᴄʜ app.
