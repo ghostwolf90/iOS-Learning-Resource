@@ -50,6 +50,7 @@
 18. [Bible-Assistant-master](https://github.com/sany620/Bible-Assistant-master) : 圣经小助手，唐巧分享的
 19. [apps-ios-wikipedia](https://github.com/wikimedia/apps-ios-wikipedia) : The official Wikipedia iOS client.
 20. [bemyeyes-ios](https://github.com/bemyeyes/bemyeyes-ios) : The Be My Eyes iOS app
+21. [ThatInbox](https://github.com/Ink/ThatInbox) : ThatInbox is a free and open-source email client
 
 #### Apple Watch App
 * [CoolSpot](https://github.com/neonichu/CoolSpot) : The missing Spotify ᴡᴀᴛᴄʜ app.
