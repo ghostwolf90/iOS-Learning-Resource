@@ -53,6 +53,7 @@
 20. [bemyeyes-ios](https://github.com/bemyeyes/bemyeyes-ios) : The Be My Eyes iOS app
 21. [ThatInbox](https://github.com/Ink/ThatInbox) : ThatInbox is a free and open-source email client
 22. [leanchat-ios](https://github.com/leancloud/leanchat-ios) : 用 LeanCloud 实时通信组件做的社交应用 LeanChat
+23. [News-YC---iPhone](https://github.com/bennyguitar/News-YC---iPhone) : The iPhone version of News/YC, a Hacker News reader and interactive iOS application.
 
 #### Apple Watch App
 * [CoolSpot](https://github.com/neonichu/CoolSpot) : The missing Spotify ᴡᴀᴛᴄʜ app.
