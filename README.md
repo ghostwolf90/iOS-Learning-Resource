@@ -6,6 +6,7 @@
 3. [Standford 2015 iOS讀書會 week1](http://www.slideshare.net/deeplovepan/standford-2015-ios-week1-1logistics-ios-8-overview-2-more-xcode-and-swift-mvc) : 1.Logistics, iOS 8 Overview 2. More Xcode and Swift, MVC
 4. [Standford 2015 iOS讀書會 week2](http://www.slideshare.net/deeplovepan/standford-2015-ios-week2-1-applying-mvc-2-more-swift-and-foundation-frameworks) : 1. Applying MVC 2. More Swift and Foundation Frameworks
 5. [Standford 2015 iOS讀書會 week3](http://www.slideshare.net/deeplovepan/standford-2015-week3-objectivec-compatibility-property-list-views) : Objective-C Compatibility, Property List, Views
+6. [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) : iOS9适配系列教程
 
 #### 其他人收集的資源清單
 1. [iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835)
@@ -54,6 +55,8 @@
 21. [ThatInbox](https://github.com/Ink/ThatInbox) : ThatInbox is a free and open-source email client
 22. [leanchat-ios](https://github.com/leancloud/leanchat-ios) : 用 LeanCloud 实时通信组件做的社交应用 LeanChat
 23. [News-YC---iPhone](https://github.com/bennyguitar/News-YC---iPhone) : The iPhone version of News/YC, a Hacker News reader and interactive iOS application.
+24. [RealtimeChat](https://github.com/relatedcode/RealtimeChat) : This is a full native iPhone app to create realtime, text based group or private chat with Parse and Firebase.
+25. [NotificationChat](https://github.com/relatedcode/NotificationChat) : This is a full native iPhone app to create realtime, text based group or private chat with Parse.
 
 #### Apple Watch App
 * [CoolSpot](https://github.com/neonichu/CoolSpot) : The missing Spotify ᴡᴀᴛᴄʜ app.
@@ -74,3 +77,4 @@
 * [eskerber/iOS-Interview-Questions](https://github.com/eskerber/iOS-Interview-Questions) : My collection of iOS specific, as well as general programming questions.
 * [app-launch-guide](https://github.com/adamwulf/app-launch-guide) : This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
+* [awesome-wwdc](https://github.com/maximveksler/awesome-wwdc) : A curated awesome WWDC resource list for conference attendees
