@@ -1,7 +1,7 @@
 # iOS-Learning-Resource
 
 #### 給新手看
-1. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) : 这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
+1. [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) : 這份學習資料是為iOS 初學者所準備的, 旨在幫助iOS 初學者們快速找到適合自己的學習資料, 節省他們搜索資料的時間, 使他們更好的規劃好自己的iOS 學習路線, 更快的入門, 更準確的定位的目前所處的位置.
 2. [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index) : This tutorial is the place to learn the Objective-C programming language. It’s designed to serve as both a concise quick-reference and a comprehensive introduction for newcomers to the language. A familiarity with basic programming concepts like variables, functions, and objects is recommended, but not strictly required.
 3. [Standford 2015 iOS讀書會 week1](http://www.slideshare.net/deeplovepan/standford-2015-ios-week1-1logistics-ios-8-overview-2-more-xcode-and-swift-mvc) : 1.Logistics, iOS 8 Overview 2. More Xcode and Swift, MVC
 4. [Standford 2015 iOS讀書會 week2](http://www.slideshare.net/deeplovepan/standford-2015-ios-week2-1-applying-mvc-2-more-swift-and-foundation-frameworks) : 1. Applying MVC 2. More Swift and Foundation Frameworks
